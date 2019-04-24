@@ -21,7 +21,7 @@ app.use(bodyParser.json());
 app.get('/pools', (req, res) => {
     let stations_exp = [];
     for (let i = 0; i < pools.results.length; i++){
-        stations_exp.push({"id" : pools.results[i].id,"name": pools.results[i].name, "description": pools.results[i].description, "img" : pools.results[i].img, "location": pools.results[i].location,  "geo": pools.results[i].geo});
+        stations_exp.push({"id" : pools.results[i].id,"name": pools.results[i].name, "description": pools.results[i].description, "thumb" : pools.results[i].thumb, "location": pools.results[i].location,  "geo": pools.results[i].geo});
     }
     res.status(200).json({results: stations_exp});
 });

@@ -2,10 +2,15 @@
   "results" : [
     {
       "id": "1",
-      "name": "Bláalónið",
+      "name": "Bláa lónið",
       "description": "Bláa lónið myndaðist 1976 á meðan á framkvæmdum við nálæga virkjun stóð. Á næstu árum á eftir fór fólk að baða sig í vatninu og setja hvíta efnið á húðina. Þeir sem eru með Psoriasis tóku eftir ótrúlegum bata á húðinni við að bera leðjuna á sig",
-      "img": "https://skoli.tk/img/bluelagoon.jpg",
-      "location": "Suðurland",
+      "long_description": "Bláa lónið myndaðist 1976 á meðan á framkvæmdum við nálæga virkjun stóð. Á næstu árum á eftir fór fólk að baða sig í vatninu og setja hvíta efnið á húðina. Þeir sem eru með Psoriasis tóku eftir ótrúlegum bata á húðinni við að bera leðjuna á sig",
+      "thumb": "https://skoli.tk/img/bluelagoon.jpg",
+      "img": "https://skoli.tk/img/bluelagoon2.jpg",
+      "location": "Southwest",
+      "phone": "+354 420 8800",
+      "website": "https://www.bluelagoon.is/",
+      "price": "True",
       "geo": {
         "lat": 63.880524,
         "lng": -22.449117
@@ -15,6 +20,8 @@
       "id": "2",
       "name": "Hellulaug",
       "description": "Hellulaug er staðsett í flæðamálinu stutt frá Hótel Flókalundi. Laugin er náttúrulaug sem hefur verið endurnýjuð talsvert á liðnum árum og er hún hlaðin grjóti og steypt. Hitastigið er um 38°C. Engin búningsaðstaða er við laugina og rétt að geta þess að fólk fer í hana á eigin ábyrgð.",
+      "long_description": "lorem",
+      "thumb": "https://skoli.tk/img/hellulaug.jpg",
       "img": "https://skoli.tk/img/hellulaug.jpg",
       "location": "Vesturland",
       "geo": {
@@ -26,6 +33,8 @@
     "id": "3",
     "name": "Hveravellir",
     "description": "Hveravellir liggja við Kjalveg (númer F35) sem liggur þvert yfir miðhálendi Íslands frá Gullfossi á Suðurlandi til Blöndudals á Norðurlandi og er leiðin um 200 kílómetrar.",
+    "long_description": "lorem",
+    "thumb": "https://skoli.tk/img/hveravellir.jpg",
     "img": "https://skoli.tk/img/hveravellir.jpg",
     "location": "Hálendi",
     "geo": {
